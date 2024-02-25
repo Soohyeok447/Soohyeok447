@@ -37,9 +37,3 @@
 - AWS S3와 AWS CloudFront를 활용한 이미지 I/O관리 <br>
 - SocketIO 사용, 실시간 유저 매칭과 WebRTC 구현 <br>
 <br>
-
-<div align="center">
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Soohyeok447.Soohyeok447)
-
-</div>
