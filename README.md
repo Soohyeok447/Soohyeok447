@@ -33,7 +33,7 @@
 
 ### Haze (2023.09 - 진행 중)
 - 실시간 소켓 통신을 기반으로 한 화상채팅 애플리케이션의 백엔드 개발 <br>
-- MVC 패턴 적용, Express와 MongoDB를 사용한 빠르고 안정적인 백엔드 시스템 구축에 중점을 둠 <br>
+- MVC 패턴 적용, Express와 MongoDB를 활용한 백엔드 시스템 구축 <br>
 - AWS S3와 AWS CloudFront를 활용한 이미지 I/O관리 <br>
 - SocketIO 사용, 실시간 유저 매칭과 WebRTC 구현 <br>
 <br>
