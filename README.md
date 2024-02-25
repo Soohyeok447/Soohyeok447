@@ -9,7 +9,7 @@
 ## 🛠 Skills & Tools
 
 - **Languages**: JavaScript, TypeScript, Python
-- **Frameworks & Libraries**: Express, NestJS, Node.js, FastAPI
+- **Frameworks & Libraries**: Express, NestJS, FastAPI
 - **Databases**: MongoDB, Amazon DynamoDB, PostgresQL
 - **Cloud Services**: Amazon AWS
 - **CI/CD & Infrastructure**: Docker, GitHub Actions, Nginx
