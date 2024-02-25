@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-devshk447%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:devshk447@gmail.com)
 
-효율적이고 확장 가능한 웹 애플리케이션을 구축하는 데 전념하는 열정적인 2년차 백엔드 개발자 김수혁입니다.
+효율적이고 확장 가능한 백엔드를 구축하는 데 전념하는 열정적인 2년차 백엔드 개발자 김수혁입니다.
 
 </div>
 
