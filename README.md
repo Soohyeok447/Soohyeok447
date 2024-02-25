@@ -20,7 +20,7 @@
 - NestJS와 MongoDB를 활용한 레이어드 아키텍처 구축 <br>
 - 유튜브 API 연동 <br>
 - 장바구니관리, 루틴관리, 유저관리, 카카오/구글 로그인 구현 <br>
-- GitHub Action과 Docker-Compose를 이용한 CI/CD 파이프라인 구축 및 운영에 기여 <br>
+- GitHub Action과 Docker-Compose를 이용한 CI/CD 파이프라인 구축 <br>
 - [메이드잇 모바일 앱 (지원종료)](https://play.google.com/store/apps/details?id=kr.develife.madeit&pli=1)
 <br>
 
