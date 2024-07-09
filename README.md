@@ -31,7 +31,7 @@
 - [햇살마켓 판매자용 모바일 앱 (지원 종료)](https://play.google.com/store/apps/details?id=kr.develife.market_seller_mobile_gui)
 <br>
 
-### Haze (2023.09 - 진행 중)
+### Haze (2023.09 - 2024.06)
 - 실시간 소켓 통신을 기반으로 한 화상채팅 애플리케이션의 백엔드 개발 <br>
 - MVC 패턴 적용, Express와 MongoDB를 활용한 백엔드 시스템 구축 <br>
 - AWS S3와 AWS CloudFront를 활용한 이미지 I/O관리 <br>
