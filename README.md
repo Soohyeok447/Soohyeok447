@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-devshk447%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:devshk447@gmail.com)
 
-2년차 백엔드 개발자 김수혁입니다.
+1년차 백엔드 개발자 김수혁입니다.
 
 </div>
 
