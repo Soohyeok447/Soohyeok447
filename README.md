@@ -9,7 +9,7 @@
 ## 🛠 Skills & Tools
 - **Language & Runtime**: JavaScript, TypeScript, Node.js
 - **Backend Framework**: NestJS, Express, GraphQL, Socket.IO
-- **Test:** Jest, Mocha
+- **Test:** Jest, Mocha, Supertest
 - **Databases / ORM**: MongoDB(Atlas), PostgreSQL, Drizzle ORM, AWS DynamoDB
 - **Cloud Services (AWS)**: Lambda, API Gateway, S3, CloudFront, EC2, Lightsail, EventBridge, SQS
 - **Firebase**: Firebase Messaging
