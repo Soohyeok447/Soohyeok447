@@ -7,11 +7,11 @@
 </div>
 
 ## 🛠 Skills & Tools
-- **Language & Runtime**: JavaScript, TypeScript, Node.js
-- **Backend Framework**: NestJS, Express, GraphQL, Socket.IO
-- **Test:** Jest, Mocha, Supertest
-- **Databases / ORM**: MongoDB(Atlas), PostgreSQL, Drizzle ORM, AWS DynamoDB
+- **Language & Runtime**: JavaScript, TypeScript, Node.js, Java
+- **Backend Framework**: NestJS, Express, GraphQL, Socket.IO, Spring Boot
+- **Test:** Jest, Mocha, Supertest, Junit
+- **Databases / ORM**: MongoDB(Atlas), PostgreSQL, Drizzle ORM, AWS DynamoDB, MySQL, Redis, JPA(hibernate), Spring Data JPA
 - **Cloud Services (AWS)**: Lambda, API Gateway, S3, CloudFront, EC2, Lightsail, EventBridge, SQS
 - **Firebase**: Firebase Messaging
 - **DevOps / CI & CD**: Git, GitHub Actions, Docker, Docker Compose, Nginx, Ubuntu
-- **etc:** Visual studio code, Node Mailer, Youtube API(Node)
+- **etc:** Visual studio code, Node Mailer, Youtube API(Node), IntelliJ
